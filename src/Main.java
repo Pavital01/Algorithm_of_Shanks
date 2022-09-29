@@ -77,6 +77,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println("Rezult is " + algorithmShanks(5,17));
+        System.out.println("Result is " + algorithmShanks(5,17));
     }
 }
